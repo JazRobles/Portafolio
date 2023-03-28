@@ -1,0 +1,19 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "portafolio DEV Jaz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JazRobles/Portafolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JazRobles/Portafolio/issues"
+  },
+  "homepage": "https://github.com/JazRobles/Portafolio#readme"
+}
