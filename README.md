@@ -1,5 +1,5 @@
 # Portafolio
-<!-- The script tag should live in the head of your page if at all possible -->
+
 <script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
 
 <!-- Put this wherever you would like your player to appear -->
